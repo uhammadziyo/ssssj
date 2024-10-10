@@ -1,0 +1,39 @@
+.in{
+width: 200px;
+height: 50px;
+background-color: blueviolet;
+color: white;
+border-radius: 10px;
+}
+.btn{
+    color: red;
+    background-color: aqua ;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+}
+body{
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 150px;
+}
+.fre{
+    background-color: yellow;
+    width: 500px;
+    height: 500px;
+    border-radius: 5px;
+    border: none ;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.btn2{
+    width: 150px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
